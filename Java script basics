@@ -1,0 +1,5 @@
+if(true===true){
+  console.log('This is true');
+  } else if (true===false){
+  console.log('This is false')
+}else{console.log('Game over')}
